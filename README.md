@@ -6,7 +6,7 @@ Extend Lua's `os` library with OS+, a portable, cross-platform, single file libr
 Drop `OSP.lua` into your project and require it
 
 ```lua
-local OSp = require("OSP")
+local OSP = require("OSP")
 ```
 
 ## Examples
