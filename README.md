@@ -46,13 +46,6 @@ OSP.ReadFile("C:/Hello.txt")
 -- Returns: file contents as a string
 ```
 
-**Get timezone offset**
-```lua
--- IncludeUTC: bool
-OSP.GetTimeZoneOffset(true)  -- Returns: "UTC +12:00"
-OSP.GetTimeZoneOffset(false) -- Returns: "+12:00"
-```
-
 **Get OS**
 ```lua
 OSP.GetOS()
